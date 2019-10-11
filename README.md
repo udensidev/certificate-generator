@@ -4,7 +4,7 @@
 
 Generates Certificates from a Given Image Template
 
-Takes in a photograph of a certificate and some additional info then add the names to it.
+Takes in a photograph of a certificate and some additional information, then adds the names to it.
 
 Part of Problem Statement for Unilag DSC Open Hack Week 2019 **#OHW #OHW2019.**
 
